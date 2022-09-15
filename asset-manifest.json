@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/API-call-innlevering/static/css/main.073c9b0a.css",
+    "main.js": "/API-call-innlevering/static/js/main.3c769aec.js",
+    "static/js/787.e10d5d8a.chunk.js": "/API-call-innlevering/static/js/787.e10d5d8a.chunk.js",
+    "static/media/logo.svg": "/API-call-innlevering/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/API-call-innlevering/index.html",
+    "main.073c9b0a.css.map": "/API-call-innlevering/static/css/main.073c9b0a.css.map",
+    "main.3c769aec.js.map": "/API-call-innlevering/static/js/main.3c769aec.js.map",
+    "787.e10d5d8a.chunk.js.map": "/API-call-innlevering/static/js/787.e10d5d8a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3c769aec.js"
+  ]
+}
