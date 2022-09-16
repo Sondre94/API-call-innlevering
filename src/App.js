@@ -20,11 +20,16 @@ export default function DataFetch() {
 
   if (data) {
     return (
-      <ul>
-        {data.map((post, i) => (
-          <li key={i}>{post.fact}</li>
-        ))}
-      </ul>
+      <>
+        <h1>Cat Facts</h1>
+        <ul>
+          {data.map((post, i) => (
+            <li key={i}>
+              {i + 1}. {post.fact}
+            </li>
+          ))}
+        </ul>
+      </>
     );
   } else if (apiError) {
     return <h1>ERRRRORR</h1>;
